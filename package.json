@@ -2,6 +2,7 @@
   "name": "hw-js-25",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://pypuc.github.io/HW-JS-25/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
@@ -13,9 +14,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
     "parcel": "^2.14.4"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "pnotify": "^5.2.0"
   }
 }
