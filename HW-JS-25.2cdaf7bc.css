@@ -1,2 +1,14 @@
+.chart-container {
+  background-color: #fff;
+  border-radius: 12px;
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  box-shadow: 0 0 10px #0000001a;
+}
 
+canvas {
+  width: 100%;
+  height: auto;
+}
 /*# sourceMappingURL=HW-JS-25.2cdaf7bc.css.map */
